@@ -12,3 +12,5 @@ Weather Pattern Analysis: Utilize advanced algorithms to analyze weather pattern
 Data Visualization: Create interactive maps and visualizations to display weather information clearly and effectively.
 Early Warning Systems: Develop early warning systems to alert users of impending severe weather events.
 Integration with Other Systems: Integrate with other weather systems and services to provide a comprehensive weather solution.
+
+[PROJECT STILL IN BETA]
